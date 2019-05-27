@@ -22,7 +22,6 @@ import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
-import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -39,7 +38,6 @@ import com.android.volley.toolbox.Volley;
 import com.kira.spark.adapter.KitchenOrderAdapter;
 import com.kira.spark.adapter.OrderAdapter;
 import com.kira.spark.adapter.SearchAdapter;
-import com.kira.spark.adapter.TableListAdapter;
 import com.kira.spark.bean.Item;
 import com.kira.spark.bean.Menu;
 import com.kira.spark.util.RecyclerTouchListener;
